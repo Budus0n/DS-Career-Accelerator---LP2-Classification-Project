@@ -47,7 +47,7 @@ Clone the repository to your desired folder:
 bash
 Copy code
 cd your-folder
-git clone [https://github.com/Moriahasare/Customer-Churn-Project.git](https://github.com/Budus0n/DS-Career-Accelerator---LP2-Classification-Project/edit/main/README.md)
+git clone: (https://github.com/Budus0n/DS-Career-Accelerator---LP2-Classification-Project/edit/main/README.md)
 Navigate to the project directory:
 
 bash
